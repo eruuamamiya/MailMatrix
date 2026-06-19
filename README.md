@@ -26,7 +26,6 @@ Gmail ignores dots in the username. The app calculates all possible combinations
   2. `ab.c@gmail.com`
   3. `a.b.c@gmail.com`
 ## 📸 Screenshots
-*(Add your screenshots here by dragging and dropping images into GitHub)*
 
 | Splash Screen | Home | Plus Engine | Dot Engine |
 | :--- | :--- | :--- | :--- |
