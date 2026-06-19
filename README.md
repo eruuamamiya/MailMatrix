@@ -30,7 +30,7 @@ Gmail ignores dots in the username. The app calculates all possible combinations
 
 | Splash Screen | Home | Plus Engine | Dot Engine |
 | :--- | :--- | :--- | :--- |
-| ![Splash](https://i.ibb.co.com/gLsY0rPp/Screenshot-20260619-123134.jpg) | ![Home](link-gambar-lu) | ![Plus](link-gambar-lu) | ![Dot](link-gambar-lu) |
+| ![Splash](https://i.ibb.co.com/gLsY0rPp/Screenshot-20260619-123134.jpg) | ![Home](https://i.ibb.co.com/7t71QypZ/Screenshot-20260619-123117.jpg) | ![Plus](https://i.ibb.co.com/N67FnCbD/Screenshot-20260619-123138.jpg) | ![Dot](https://i.ibb.co.com/Q39pTgnf/Screenshot-20260619-123142.jpg) |
 
 ## ⚠️ Disclaimer
 This tool is intended for personal email management, software testing, and legitimate multi-account management. The developer is not responsible for any misuse of this application for spamming or violating third-party Terms of Service.
